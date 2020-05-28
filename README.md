@@ -1,3 +1,11 @@
-# Global CSS with Nuxt.js
+# AntDesign Vue with Nuxt.js
 
-https://nuxtjs.org/examples/global-css
+for dev
+```bash
+npm run dev
+```
+
+for build
+```bash
+npm run build
+```
