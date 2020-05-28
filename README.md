@@ -1,2 +1,3 @@
-# nuxt-antdesign
-Created with CodeSandbox
+# Global CSS with Nuxt.js
+
+https://nuxtjs.org/examples/global-css
